@@ -1,22 +1,22 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'ciências',
+    'qual a pricipal função do Rin?'
+    'Sua principal tarefa é filtrar o sangue'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é a capital do Paraná?',
+    'A capital do Paraná é a grande Curitiba'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'lingua portuguesa',
+    'qual a função da virgula?',
+    'usado para indicar pequenas pausas durante a leitura, além da separação de termos no enunciado para evitar ambiguidade na interpretação'
 )
 criaCartao(
     'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como perguntar o nome de uma pessoa em inglês?',
+    'What is your name'
 ) 
